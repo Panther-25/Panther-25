@@ -11,7 +11,7 @@
   <a href="@Tomarcus25" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="its_aravind25_kl29" target="_blank">
+  <a href="its_aravind25_kl2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="aravindachu536@gmail.com" target="_blank">
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Aravind Babu from Kerala, India<br><br>- �  Treasurer of the Computer Society of India <br>- 🔭 I’m  a Student at Amrita Vishwa Vidyapeetham, Kochi Campus<br>- 📚 I'm currently learning BCA Honours<br>- ⚡ In my free time I sit and listen to musics</p>
+<p align="left">I'm Aravind Babu from Kerala, India<br><br>- �  Secretary of the Computer Society of India <br>- 🔭 I’m  a Student at Amrita Vishwa Vidyapeetham, Kochi Campus<br>- 📚 I'm currently learning BCA Honours<br>- ⚡ In my free time I sit and listen to musics</p>
 
 ###
 
@@ -57,6 +57,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+   <img width="12"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)" height="40" alt="node.js"  />
+  <img width="12" />
 </div>
 
 ###
